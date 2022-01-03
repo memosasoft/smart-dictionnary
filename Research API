@@ -1,4 +1,6 @@
 
+DICTIONNARY API
+
 https://owlbot.info/
 
 Owlbot Dictionary API:
@@ -20,3 +22,72 @@ curl --header "Authorization: Token 312c7ba38151ff10ede2ca5f7330a9892abc4e77" ht
 We love to know how is your experience with the API and if you have any feedback or suggestion for improvement.
 
 We really appreciate if you review our API in Trustpilot and share your thought with us.
+
+
+____________________________________________
+
+DICTIONNARY API
+
+Hi, it's Lingua Robot. I'll help your code understand language better.
+English dictionary API providing an access to data of over 800 000 English lexical entries, such as words, phrasal verbs, multi-word expressions.
+
+https://www.linguarobot.io/
+
+Word Definitions
+
+Get an access to the definitions of over 800 000 English entries, such as words, phrasal verbs, multi-word expressions etc.
+
+
+______________________________________________
+
+https://www.indeed.com/publisher
+
+Indeed
+Indeed Publisher Program
+
+Join thousands of publishers who get paid for simply adding Indeed content to their site. Learn how our job search tools will help you make money while also adding valuable content to your site for free.
+
+
+Job Search API
+
+With Indeed's Job Search API you can develop custom job search solutions for your website in over 60 countries. Choose where you want the jobs to appear, all with the look and feel of your own site. We provide you with easy-to-read reports for your traffic and earnings.
+
+________________________________________________
+
+Introduction
+
+Integrate Upwork functionalities to your web-based or mobile apps
+
+Upwork Developers Site offers you access to our web services
+to build your own applications and to integrate our features and workflow
+to your dashboards, websites and management systems.
+Please read Terms of use prior to using the Upwork Public API.
+
+https://developers.upwork.com/?lang=python#
+
+Libraries
+
+Here you can find a list of available libraries for several languages.
+API Entry Point
+
+https://www.upwork.com/api
+
+For Reports resources:
+
+https://www.upwork.com/gds
+
+____________________________________________________
+
+public-api-lists
+Public API Lists
+
+Stars Fork Issues PRs Welcome
+
+A collective list of free APIs for use in software and web development.
+
+For information on contributing to this project, please see the contributing guide.
+
+https://public-api-lists.github.io/public-api-lists/
+
+
+
