@@ -1,0 +1,22 @@
+
+https://owlbot.info/
+
+Owlbot Dictionary API:
+Owlbot searches the internet to index information and making them accessible via HTTP APIs. Currently, it offers an English dictionary API. Web applications or mobile apps can use Owlbot dictionary API to get the definition of English words, and in some cases, pronunciation, picture, example sentence, and emoji if available. 
+
+How to work with the Owlbot API?
+If you are interested in using the OwlBot API in your project, you can check the API reference. here is what a cURL request to Owlbot dictionary API would look like:
+curl --header "Authorization: Token YOUR_TOKEN" https://owlbot.info/api/v4/dictionary/owl
+
+For javascript we have a simple npm package.
+As you have noticed from the cURL request, to use the Owlbot API, you need an API token for authhntication. 
+
+Your API token is: 312c7ba38151ff10ede2ca5f7330a9892abc4e77
+
+Here is a sample curl request for you:
+
+curl --header "Authorization: Token 312c7ba38151ff10ede2ca5f7330a9892abc4e77" https://owlbot.info/api/v4/dictionary/owl -s | json_pp
+
+We love to know how is your experience with the API and if you have any feedback or suggestion for improvement.
+
+We really appreciate if you review our API in Trustpilot and share your thought with us.
